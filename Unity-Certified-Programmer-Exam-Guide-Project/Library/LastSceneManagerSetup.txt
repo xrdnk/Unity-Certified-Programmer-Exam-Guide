@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/_xrdnk/Chapter02/Scenes/Chapter02.unity
+  isLoaded: 1
+  isActive: 1
