@@ -4,4 +4,7 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_xrdnk/Chapter02/Scene/Chapter02.unity
+    guid: d1eb53009f40d664ab91d3696490758e
