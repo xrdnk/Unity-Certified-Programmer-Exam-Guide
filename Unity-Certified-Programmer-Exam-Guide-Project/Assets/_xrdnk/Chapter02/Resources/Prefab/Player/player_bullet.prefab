@@ -24,6 +24,7 @@ GameObject:
   - component: {fileID: 23313435897997492}
   - component: {fileID: 108831160392567322}
   - component: {fileID: 54680954213143346}
+  - component: {fileID: 114587209783948836}
   m_Layer: 0
   m_Name: player_bullet
   m_TagString: Player
@@ -136,6 +137,18 @@ Light:
   m_UseColorTemperature: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
+--- !u!114 &114587209783948836
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1818954175548038}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6b9aebb66b0864499366f5b7056daa4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _bulletModel: {fileID: 0}
 --- !u!135 &135797864071719578
 SphereCollider:
   m_ObjectHideFlags: 1

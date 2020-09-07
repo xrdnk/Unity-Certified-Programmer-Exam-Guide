@@ -56,6 +56,7 @@
      <Compile Include="Assets\_xrdnk\Chapter02\Resources\Script\Constant\ObjectName.cs" />
      <Compile Include="Assets\_xrdnk\Chapter02\Resources\Script\Constant\PathName.cs" />
      <Compile Include="Assets\_xrdnk\Chapter02\Resources\Script\Constant\TagName.cs" />
+     <Compile Include="Assets\_xrdnk\Chapter02\Resources\Script\EnemySpawner.cs" />
      <Compile Include="Assets\_xrdnk\Chapter02\Resources\Script\Enum\AttackType.cs" />
      <Compile Include="Assets\_xrdnk\Chapter02\Resources\Script\GameManager.cs" />
      <Compile Include="Assets\_xrdnk\Chapter02\Resources\Script\IActorTemplate.cs" />
